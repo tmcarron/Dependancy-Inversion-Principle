@@ -1,0 +1,7 @@
+C:\Users\tmcar\source\repos\Dependancy Inversion Principle\bin\Debug\Dependancy Inversion Principle.exe.config
+C:\Users\tmcar\source\repos\Dependancy Inversion Principle\bin\Debug\Dependancy Inversion Principle.exe
+C:\Users\tmcar\source\repos\Dependancy Inversion Principle\bin\Debug\Dependancy Inversion Principle.pdb
+C:\Users\tmcar\source\repos\Dependancy Inversion Principle\obj\Debug\Dependancy Inversion Principle.csprojAssemblyReference.cache
+C:\Users\tmcar\source\repos\Dependancy Inversion Principle\obj\Debug\Dependancy Inversion Principle.csproj.CoreCompileInputs.cache
+C:\Users\tmcar\source\repos\Dependancy Inversion Principle\obj\Debug\Dependancy Inversion Principle.exe
+C:\Users\tmcar\source\repos\Dependancy Inversion Principle\obj\Debug\Dependancy Inversion Principle.pdb
